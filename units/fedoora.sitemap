@@ -1,0 +1,979 @@
+{
+    "www.facebook.com": {
+        "foodora.espana": {}
+    },
+    "www.instagram.com": {
+        "foodora.es": {}
+    },
+    "www.foodora.es": {
+        "careers": {},
+        "contents": {
+            "terms-and-conditions.htm": {},
+            "contact.htm": {},
+            "jobs": {},
+            "drivers-and-restaurants.htm": {},
+            "privacy.htm": {},
+            "imprint.htm": {},
+            "affiliate": {}
+        },
+        "policies": {},
+        "restaurant": {
+            "p0hw": {
+                "mimi-s-creperia": {}
+            },
+            "p5or": {
+                "oven-mozzarella-bar": {}
+            },
+            "p7ui": {
+                "rangoli": {}
+            },
+            "p8ul": {
+                "lola-co": {}
+            },
+            "p8cp": {
+                "rainbow-eixample": {}
+            },
+            "p9fw": {
+                "che-burritos": {}
+            },
+            "p0ym": {
+                "kilo": {}
+            },
+            "p0iv": {
+                "grazie-mille-kitchen-bar": {}
+            },
+            "p8jq": {
+                "sonali-indian-restaurant": {}
+            },
+            "p1ye": {
+                "latitud": {}
+            },
+            "p8aa": {
+                "buenos-aires-gourmet": {}
+            },
+            "p7be": {
+                "rincon-de-aragon": {}
+            },
+            "p3ue": {
+                "anauco-carrer-de-valencia": {}
+            },
+            "p4mo": {
+                "only-sushi": {}
+            },
+            "p7mp": {
+                "colby-urban-opera": {}
+            },
+            "p0sm": {
+                "peggy-sue-s-esquerra-de-l-eixample": {}
+            },
+            "p5jl": {
+                "steak-burger-fuencarral": {}
+            },
+            "p8tx": {
+                "petit-appetit": {}
+            },
+            "p3tp": {
+                "sky": {}
+            },
+            "p4ab": {
+                "frutal-calle-san-andres": {}
+            },
+            "p2qe": {
+                "ninsei": {}
+            },
+            "p7sq": {
+                "mestizo": {}
+            },
+            "p7tp": {
+                "salero": {}
+            },
+            "p9ve": {
+                "pecado-carnal-hernan-cortes": {}
+            },
+            "p4yc": {
+                "nigiri": {}
+            },
+            "p2eg": {
+                "df-bar": {}
+            },
+            "p4mf": {
+                "el-sitio": {}
+            },
+            "p4xx": {
+                "luna-rossa": {}
+            },
+            "p7to": {
+                "emma-y-julia": {}
+            },
+            "p6dd": {
+                "oishi": {}
+            },
+            "p1er": {
+                "mama-teresa-hot-dog-y-burger": {}
+            },
+            "p9zj": {
+                "nonna-maria": {}
+            },
+            "p6vt": {
+                "hola-nepal": {}
+            },
+            "p7ni": {
+                "oven-gran-via": {}
+            },
+            "p2tr": {
+                "gobu": {}
+            },
+            "p7oa": {
+                "steak-burger-atocha": {}
+            },
+            "p8qp": {
+                "3focs": {}
+            },
+            "p9ju": {
+                "la-porchetta": {}
+            },
+            "p9gl": {
+                "cowbells": {}
+            },
+            "p4gb": {
+                "pecado-carnal-reina-victoria": {}
+            },
+            "p4ie": {
+                "al-fanus": {}
+            },
+            "p0lp": {
+                "pato-laqueado-alta-cocina-china-y-asiatica": {}
+            },
+            "p1av": {
+                "skyline-diner": {}
+            },
+            "p4iq": {
+                "anthony-s-place": {}
+            },
+            "p7vx": {
+                "desengano-13": {}
+            },
+            "p0mm": {
+                "tokyo-sushi-gracia": {}
+            },
+            "p8ht": {
+                "misaki": {}
+            },
+            "p3es": {
+                "alino-sabores-del-mundo": {}
+            },
+            "p8ej": {
+                "san-wich": {}
+            },
+            "p4wx": {
+                "noma-food-bar": {}
+            },
+            "p6da": {
+                "aladdin": {}
+            },
+            "p5ap": {
+                "la-herradura": {}
+            },
+            "p9nw": {
+                "biotza": {}
+            },
+            "p2pr": {
+                "la-nicoletta-paseo-de-la-castellana": {}
+            },
+            "p2mz": {
+                "nagoya": {}
+            },
+            "p2hf": {
+                "steak-burger-v-de-los-peligros": {}
+            },
+            "p7yx": {
+                "vacka": {}
+            },
+            "p5ld": {
+                "valentinas-coffee-vendor": {}
+            },
+            "p0ad": {
+                "ti-amo": {}
+            },
+            "p7lg": {
+                "moha-raj-buenavista": {}
+            },
+            "p4ex": {
+                "friends-tavern": {}
+            },
+            "p1lt": {
+                "hanabishi": {}
+            },
+            "p0vg": {
+                "cal-marius-449-pastrami": {}
+            },
+            "p4jx": {
+                "napoli-prima-e-dopo": {}
+            },
+            "p6ve": {
+                "trattoria-del-mare-urgell": {}
+            },
+            "p3yp": {
+                "ala-sushi": {}
+            },
+            "p8lj": {
+                "magansad-columela": {}
+            },
+            "p8yo": {
+                "big-j-burger": {}
+            },
+            "p2aw": {
+                "tokio-sushi": {}
+            },
+            "p3at": {
+                "maiia-thai": {}
+            },
+            "p2jb": {
+                "himali": {}
+            },
+            "p7gz": {
+                "casanovas": {}
+            },
+            "p5lm": {
+                "nebraska": {}
+            },
+            "p6qk": {
+                "maur": {}
+            },
+            "p7vy": {
+                "the-burger-lobby-barquillo": {}
+            },
+            "p1lm": {
+                "el-tendido-2": {}
+            },
+            "p5lf": {
+                "el-jamon-y-el-churrasco": {}
+            },
+            "p3fu": {
+                "al-natural": {}
+            },
+            "p0bu": {
+                "grupo-tei": {}
+            },
+            "p5mn": {
+                "peybor": {}
+            },
+            "p2rx": {
+                "myveg": {}
+            },
+            "p4jq": {
+                "rincon-mexicano": {}
+            },
+            "p4yd": {
+                "la-piadina-del-sol": {}
+            },
+            "p4gq": {
+                "edo-sushi-bar": {}
+            },
+            "p8tc": {
+                "sushi-nomi": {}
+            },
+            "p3re": {
+                "yatiri": {}
+            },
+            "p3ur": {
+                "roma": {}
+            },
+            "p4yr": {
+                "roig-robi": {}
+            },
+            "p0dl": {
+                "kiku-japones": {},
+                "kiku": {}
+            },
+            "p5df": {
+                "himawari-sake-dining": {}
+            },
+            "p1po": {
+                "atapa-it": {}
+            },
+            "p5ot": {
+                "el-paraiso-del-desierto": {}
+            },
+            "p0yi": {
+                "oam-thong": {}
+            },
+            "p9tz": {
+                "la-nicoletta-azca": {}
+            },
+            "p2um": {
+                "anema-e-core": {}
+            },
+            "p2mm": {
+                "cultura-cafe-13": {}
+            },
+            "p9it": {
+                "el-escaldon": {}
+            },
+            "p6bo": {
+                "steak-burger-luchana": {}
+            },
+            "p7ce": {
+                "calcuta-indian-restaurant": {}
+            },
+            "p7ej": {
+                "phuket-thai-restaurant": {}
+            },
+            "p0ju": {
+                "new-york-cafe-burger": {}
+            },
+            "p7hv": {
+                "vasi": {}
+            },
+            "p7tv": {
+                "yokomo": {}
+            },
+            "p6ua": {
+                "shukran-alcala-200": {}
+            },
+            "p1tu": {
+                "nassib": {}
+            },
+            "p0sh": {
+                "juicy-avenue-hortaleza": {}
+            },
+            "p6rd": {
+                "cleas": {}
+            },
+            "p8am": {
+                "taberna-rayuela": {}
+            },
+            "p5pv": {
+                "gravin": {}
+            },
+            "p9qr": {
+                "sushi-idea": {}
+            },
+            "p8ed": {
+                "shalimar": {}
+            },
+            "p5jd": {
+                "paolo-restaurante": {}
+            },
+            "p0nq": {
+                "ganges": {}
+            },
+            "p9uu": {
+                "ers-no-5": {}
+            },
+            "p0qd": {
+                "swagat": {}
+            },
+            "p0ez": {
+                "peggy-sue-s": {}
+            },
+            "p2yt": {
+                "bristol-bar": {}
+            },
+            "p8cv": {
+                "anauco": {}
+            },
+            "p1bn": {
+                "agra-palace": {}
+            },
+            "p3yr": {
+                "peggy-sue-s-monforte-de-lemos": {}
+            },
+            "p1sc": {
+                "mawazin": {}
+            },
+            "p8ie": {
+                "sushiwakka-cuzco": {}
+            },
+            "p7pk": {
+                "ciao-da-vito": {}
+            },
+            "p0xs": {
+                "la-girgola-italiana": {}
+            },
+            "p0nf": {
+                "himalaya": {}
+            },
+            "p8zr": {
+                "kiyota-sushi": {}
+            },
+            "p8tq": {
+                "amayra": {}
+            },
+            "p6gp": {
+                "temaki-ya": {}
+            },
+            "p7xl": {
+                "the-burger-lobby-corazon-de-maria": {}
+            },
+            "p0sy": {
+                "pisco-41": {}
+            },
+            "p2su": {
+                "moharaj-indian-restaurant": {}
+            },
+            "p9re": {
+                "asador-de-aranda-pau-claris": {}
+            },
+            "p8sx": {
+                "taj": {}
+            },
+            "p3jd": {
+                "el-capricho-del-duque": {}
+            },
+            "p3lb": {
+                "sindur": {}
+            },
+            "p2kp": {
+                "barraval": {}
+            },
+            "p9we": {
+                "sushi-samba-fushion": {}
+            },
+            "p3pz": {
+                "ecocentro": {}
+            },
+            "p0go": {
+                "chifa": {}
+            },
+            "p1rc": {
+                "greenshots": {}
+            },
+            "p8kc": {
+                "chirrion": {}
+            },
+            "p0yz": {
+                "ikki": {}
+            },
+            "p7rb": {
+                "pecado-carnal-covarrubias": {}
+            },
+            "p2hm": {
+                "rincon-persa": {}
+            },
+            "p0ze": {
+                "calle-30": {}
+            },
+            "p1fp": {
+                "la-nicoletta-capitan-haya": {}
+            },
+            "p9hs": {
+                "kathmandu": {}
+            },
+            "p9os": {
+                "el-jamon-del-abuelo": {}
+            },
+            "p8gp": {
+                "nice-spice": {}
+            },
+            "p1ie": {
+                "fray-s-pizza": {}
+            },
+            "p8im": {
+                "el-patio-latino": {}
+            },
+            "p4ii": {
+                "restaurante-habibi": {}
+            },
+            "p2lt": {
+                "muy-mio": {}
+            },
+            "p5wn": {
+                "pizza-al-vol": {}
+            },
+            "p0pi": {
+                "el-eden-de-la-forja": {}
+            },
+            "p7wn": {
+                "frutal-calle-gravina": {}
+            },
+            "p5vs": {
+                "raja-mahal": {}
+            },
+            "p1vt": {
+                "casa-marco": {}
+            },
+            "p9jx": {
+                "molina": {}
+            },
+            "p4tv": {
+                "summa": {}
+            },
+            "p5yv": {
+                "el-club-de-la-hamburguesa": {}
+            },
+            "p9jg": {
+                "petit-bangkok": {}
+            },
+            "p8sw": {
+                "hanoi": {}
+            },
+            "p1vm": {
+                "el-mexicano-de-barcelona": {}
+            },
+            "p0un": {
+                "hamburgueseria-rustica-tio-joe": {}
+            },
+            "p5xr": {
+                "pecado-carnal-naciones": {}
+            },
+            "p5rz": {
+                "jai-alai": {}
+            },
+            "p2ww": {
+                "pizzeria-vesuvio": {}
+            },
+            "p6eq": {
+                "marisk": {}
+            },
+            "p4hb": {
+                "juicy-avenue-fuencarral": {}
+            },
+            "p3kj": {
+                "las-mil-y-una-noches": {}
+            },
+            "p5cb": {
+                "restaurante-marisqueria-andorina": {}
+            },
+            "p4lp": {
+                "les-3-pommes": {}
+            },
+            "p3uy": {
+                "l-osteria-del-contadino": {}
+            },
+            "p2nw": {
+                "muns": {}
+            },
+            "p7vk": {
+                "diwali": {}
+            },
+            "p4wh": {
+                "my-pillow-restaurant": {}
+            },
+            "p6pv": {
+                "yessushi": {}
+            },
+            "p3iz": {
+                "alta-burgersia": {}
+            },
+            "p0ea": {
+                "gramabar": {}
+            },
+            "p9pu": {
+                "el-asador-de-aranda-londres": {}
+            },
+            "p2lf": {
+                "mughul-indian": {}
+            },
+            "p2hb": {
+                "vesuvius": {}
+            },
+            "p6kl": {
+                "juicy-avenue-genova": {}
+            },
+            "p3fz": {
+                "frutal-calle-orense": {}
+            },
+            "p0gz": {
+                "el-mercado-de-velazquez": {}
+            },
+            "p4ip": {
+                "the-secret-samurai": {}
+            },
+            "p7vo": {
+                "tokyo-sushi-comtal": {}
+            },
+            "p3ma": {
+                "la-taberna-griega": {}
+            },
+            "p7pi": {
+                "porto-vecchio": {}
+            },
+            "p4bt": {
+                "nipponsei-sushi-and-club-experience": {}
+            },
+            "p4cg": {
+                "brasserie-flo": {}
+            },
+            "p9ae": {
+                "the-snob": {}
+            },
+            "p8wc": {
+                "trenque-lauquen": {}
+            },
+            "p5xj": {
+                "hola-manito": {}
+            },
+            "p6ej": {
+                "luisvins": {}
+            },
+            "p3oo": {
+                "drink-eat": {}
+            },
+            "p3xk": {
+                "pecado-carnal-sor-angela-de-la-cruz": {}
+            },
+            "p2lh": {
+                "parrillada-de-andorina": {}
+            },
+            "p3kb": {
+                "gran-paris": {}
+            },
+            "p3tu": {
+                "loving-hut-vegano": {}
+            },
+            "p1vw": {
+                "alfredo-s-barbacoa": {}
+            },
+            "p0ja": {
+                "bangkok": {}
+            },
+            "p5dm": {
+                "bar-celoneta-sangria-bar": {}
+            },
+            "p0pb": {
+                "la-nova": {}
+            },
+            "p0mh": {
+                "kungfu-noodle": {}
+            },
+            "p8so": {
+                "to-be": {}
+            },
+            "p6pj": {
+                "el-olvido": {}
+            },
+            "p5rt": {
+                "fishop": {}
+            },
+            "p4cw": {
+                "foz": {}
+            },
+            "p9gd": {
+                "maur-muntaner": {}
+            },
+            "p1aj": {
+                "corchos": {}
+            },
+            "p5vr": {
+                "curry-masala": {}
+            },
+            "p6rs": {
+                "toscana-diputacio": {}
+            },
+            "p4bw": {
+                "variopintos": {}
+            },
+            "p1nz": {
+                "trattoria-del-mare-icaria": {}
+            },
+            "p8lf": {
+                "bembi": {}
+            },
+            "p7md": {
+                "siamo-buona-pizza": {}
+            },
+            "p4sm": {
+                "platina-cafe": {}
+            },
+            "p9af": {
+                "mousse": {}
+            },
+            "p8xp": {
+                "the-burger-lobby-infanta": {}
+            },
+            "p8nw": {
+                "el-recuerdo": {}
+            },
+            "p7fr": {
+                "street-by-gramabar": {}
+            },
+            "p8pr": {
+                "todo-pasa": {}
+            },
+            "p6nn": {
+                "picsa": {}
+            },
+            "p8dw": {
+                "delhi": {}
+            },
+            "p8dd": {
+                "shibui": {}
+            },
+            "p8xf": {
+                "blue-finn": {}
+            },
+            "p5vf": {
+                "gusto": {}
+            },
+            "p1wb": {
+                "iurantia": {}
+            },
+            "p6rz": {
+                "de-cuchara": {}
+            },
+            "p1bp": {
+                "la-vespa-burger-bar": {}
+            },
+            "p8et": {
+                "dona-adelita": {}
+            },
+            "p5oo": {
+                "arroceria-daniela": {}
+            },
+            "p2ov": {
+                "inka-burg": {}
+            },
+            "p9hw": {
+                "la-sal-de-alcocer": {}
+            },
+            "p5uc": {
+                "arepa-ole": {}
+            },
+            "p5xh": {
+                "pan-asia": {}
+            },
+            "p9jm": {
+                "beefcious-alberto-alcocer": {}
+            },
+            "p7kt": {
+                "le-petit-prince": {}
+            },
+            "p8up": {
+                "la-chusquery": {}
+            },
+            "p7sk": {
+                "agra-restaurante": {}
+            },
+            "p4fr": {
+                "la-santa-del-born": {}
+            },
+            "p1cg": {
+                "freiduria-de-pauli": {},
+                "la-freiduria-de-pauli": {}
+            },
+            "p3xo": {
+                "nogal": {}
+            },
+            "p3ht": {
+                "sushi-master-moncloa": {}
+            },
+            "p1vf": {
+                "el-pepinillo-de-barquillo": {}
+            },
+            "p1fk": {
+                "shanti": {}
+            },
+            "p0fd": {
+                "el-capricho-de-abascal": {}
+            },
+            "p3xe": {
+                "art-espanol": {}
+            },
+            "p7pm": {
+                "los-girasoles-cantina": {}
+            },
+            "p1fl": {
+                "las-noches-de-moscu": {}
+            },
+            "p1vv": {
+                "fuji": {}
+            },
+            "p9do": {
+                "siniqual": {}
+            },
+            "p8gi": {
+                "muns-raval": {}
+            },
+            "p8kd": {
+                "sushi-cake": {}
+            },
+            "p6zr": {
+                "kon-tiki": {}
+            },
+            "p6ep": {
+                "wok-show": {}
+            },
+            "p3zc": {
+                "bcn-friends": {}
+            },
+            "p6ut": {
+                "la-pizzarra": {}
+            },
+            "p5ef": {
+                "gopal": {}
+            },
+            "p3wh": {
+                "lu-cia": {}
+            },
+            "p0pu": {
+                "banzai-sushi-recoletos": {}
+            },
+            "p4ma": {
+                "xanacuk": {}
+            },
+            "p6wz": {
+                "patacon-pisao": {}
+            },
+            "p8hs": {
+                "la-casa-dei-pazzi": {}
+            },
+            "p7fy": {
+                "bichobola": {}
+            },
+            "p7nk": {
+                "greenshots-via-augusta": {}
+            },
+            "p6qv": {
+                "volcanes": {}
+            },
+            "p5sw": {
+                "mirando-al-mar": {}
+            },
+            "p8ve": {
+                "hanakura": {}
+            },
+            "p2ml": {
+                "otto-e-undici": {}
+            },
+            "p8yw": {
+                "muki-american-japo": {}
+            },
+            "p3fh": {
+                "hotdoks-sants-126": {}
+            },
+            "p4fc": {
+                "crucina": {}
+            },
+            "p6db": {
+                "rajasthan-restaurante": {}
+            },
+            "p3tz": {
+                "si-senor\"": {},
+                "si-senor": {}
+            },
+            "p4gm": {
+                "moha-raj-ave-maria": {}
+            },
+            "p1fm": {
+                "simpu": {}
+            },
+            "p5ev": {
+                "alabina": {}
+            },
+            "p6zh": {
+                "la-mula-plateada": {}
+            },
+            "p2au": {
+                "pecado-carnal-a-aguilera": {}
+            },
+            "p5gb": {
+                "mi-rincon": {}
+            },
+            "p7ga": {
+                "el-inca": {}
+            },
+            "p5pj": {
+                "indian-restaurant-taj-mahal": {}
+            },
+            "p2cs": {
+                "restaurante-sagar": {}
+            },
+            "p4wg": {
+                "asia-rong": {}
+            },
+            "p8uf": {
+                "pecado-carnal-fucar": {}
+            },
+            "p6ck": {
+                "mayura": {}
+            },
+            "p9ru": {
+                "donnafugata": {}
+            },
+            "p9xb": {
+                "sushi-store": {}
+            },
+            "p4hy": {
+                "sanwich-universidad": {}
+            }
+        },
+        "campaign": {
+            "landing.php": {}
+        },
+        "badges": {},
+        "mobile": {},
+        "help": {
+            "cookies": {}
+        },
+        "directory": {
+            "pages": {},
+            "places": {},
+            "people": {}
+        },
+        "pages": {
+            "create": {}
+        },
+        "find-friends": {},
+        "login": {},
+        "allactivity": {},
+        "privacy": {
+            "explanation": {}
+        },
+        "places": {},
+        "facebook": {},
+        "recover": {
+            "initiate": {}
+        },
+        "lite": {},
+        "games": {},
+        "r.php": {},
+        "settings": {},
+        "img": {
+            "favicon": {
+                "default": {
+                    "apple-touch-icon-144x144.png": {},
+                    "apple-touch-icon-152x152.png": {},
+                    "favicon-16x16.png": {},
+                    "apple-touch-icon-114x114.png": {},
+                    "apple-touch-icon-76x76.png": {},
+                    "apple-touch-icon-120x120.png": {},
+                    "android-chrome-192x192.png": {},
+                    "favicon-96x96.png": {},
+                    "apple-touch-icon-180x180.png": {},
+                    "apple-touch-icon-72x72.png": {},
+                    "apple-touch-icon-57x57.png": {},
+                    "favicon-32x32.png": {},
+                    "apple-touch-icon-60x60.png": {}
+                }
+            }
+        },
+        "city": {
+            "barcelona": {},
+            "madrid": {}
+        },
+        "css": {
+            "dist": {
+                "style-es.css": {}
+            }
+        },
+        "cdn-cgi": {
+            "l": {
+                "email-protection": {}
+            }
+        }
+    },
+    "com.instagram.android": {
+        "https": {
+            "instagram.com": {
+                "_u": {
+                    "foodora.es": {}
+                }
+            }
+        }
+    },
+    "instagram.com": {
+        "foodora.es": {}
+    }
+}
++++ Website: https://www.foodora.es/ has been crawled! +++
