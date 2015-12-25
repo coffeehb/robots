@@ -279,11 +279,3 @@ listOfScrapers = [hideMyAss_scraper,
 if __name__ == '__main__':
     fullpath = os.path.join(os.path.dirname(__file__), 'proxies.p')
     main(fullpath)
-
-"""
-TODO:
-
-- implement using proxies to scrpape proxies
-- chreate better logging mechanism (I want to have multiple different loggers in each file in robots module)
-
-"""

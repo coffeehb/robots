@@ -111,13 +111,13 @@ class Extractor(ConnectorObj):
     def __init__(self, connectorGuid, auth):
         ConnectorObj.__init__(self, connectorGuid, auth)
 
-    def query(self, source):
+    def query(self, sourcen, headers = 'random', proxies=None):
         """ Querying Extractor with given URL. Returns list of results, where each result is dictionary (json) """
 
         if self.status == 'OK':
             url = 'https://api.import.io/store/data/{0}/_query?input/webpage/url={1}&_user={2}&_apikey={3}'.format(self.guid, urllib.parse.quote(source), self.auth[0], self.auth[1])
 
-            r = requestsHandler.get(url)
+            r = requestsHandler.get(url, headers = 'random', proxies=None)
             if r.status_code == 200:
                 response = json.loads(r.text)
 
@@ -151,8 +151,8 @@ if __name__ == '__main__':
 
 TODO:
 
-- add proxy handling to requestsHandler.get
 - implement Connector class
+    Methods:
     + quering -> https://api.import.io/store/data/bcfbcf84-cce9-494f-ae8b-6132579c04f2/_query?input/item=laptop&_user=c80a8940-d8e6-493b-8f16-8d657709a3c3&_apikey=c80a8940d8e6493b8f168d657709a3c315e56fba30587c32631fd593048df7260125674e969e9fb9e89e463ec8041f6f86862f618c4ea98c59d2bcdc73e952837fa510bab6b507e984c9d7cc3f124dec
 
 """

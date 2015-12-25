@@ -164,14 +164,3 @@ def get(url, headers='random', proxies = None, **kwargs):
        return None
 
     return r
-
-
-
-"""
-TODO:
-- change prints to logging
-- POST function
-
-It woulb be nice to have:
-- 
-"""

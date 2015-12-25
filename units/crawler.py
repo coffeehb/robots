@@ -149,11 +149,8 @@ logger.addHandler(ch)
 """
 TODO:
 
-Prio:
 - implement action
 
-Would be good:
-- avoiding honeypots (eg. on http://www.chronorestro.fr)
 """
 
 
