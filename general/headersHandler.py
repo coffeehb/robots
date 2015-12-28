@@ -68,3 +68,8 @@ def specificUserAgent(browser):
               }
 
     return headers
+
+def randomUserAgent():
+    """ Returns random User-Agent string """
+
+    return random.choice(list(user_agents.keys()))
