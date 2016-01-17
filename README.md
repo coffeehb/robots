@@ -5,10 +5,10 @@
 robots.general:
 + customFunctions – contains functions useful in different kind of scrapers/crawlers, eg. Extracting internal/external link or converting url to beautiful soap object.
 
-+ headersHandler  - contains functions to handle headers which are send along with http request
++ headersHandler  - contains functions to handle headers which are being send along with http request. By default it sets different set of headers in each request.
 + proxyHandler – contains helper functions to handle proxies
 
-+ requestsHandler -  main module which is used for making http requests. At the time of writing this document it has one function: http GET request. It add some custom functionality like handling headers and proxy to python requests library. Usage is exactly the same as requests.get, except defining headers and proxies argument. While using requestsHandler.get you don't need to care about headers (default functionality is to send different headers each request, which is especially useful while crawling whole domain). Also using proxies is easier. It also support proxyHarvester which is one of the main helper units.
++ requestsHandler -  main module which is used for making http requests. At the time of writing this document it has one method: http GET request. It add some custom functionality like handling headers and proxy to python requests library. Usage is exactly the same as requests.get, except defining headers and proxies argument. While using requestsHandler.get you don't need to care about headers (default functionality is to send different headers each request, which is especially useful while crawling whole domain). Also using proxies is easier. It also support proxyHarvester which is one of the main helper units.
 
 + resultsHandler – contains useful functions to save scrapeing results to JSON and/or CSV.
 
