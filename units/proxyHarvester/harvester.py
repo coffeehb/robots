@@ -46,8 +46,9 @@ class Collectioner(threading.Thread):
         proxyHarvesterObj = proxyHandler.proxyHarvester('proxies.p') # Uses itself if scraped proxies are available. If not, no proxies are used while scrapeing
         extractedProxies = self.scraper.main(proxies=proxyHarvesterObj)
         proxies = self.scraper.normalize(extractedProxies)
-        [uncheckedProxy.put(proxy['proxy']) for proxy in proxies]
-        logger.debug('Got proxies from {0}. NumOfProxies: {1}'.format(proxies[0]['source'], len(proxies)))
+        if proxies:
+            [uncheckedProxy.put(proxy['proxy']) for proxy in proxies]
+            logger.debug('Got proxies from {0}. NumOfProxies: {1}'.format(proxies[0]['source'], len(proxies)))
 
 
 class QualityController(threading.Thread):
@@ -59,7 +60,7 @@ class QualityController(threading.Thread):
 
     def __init__(self):
         threading.Thread.__init__(self)
-        self.name = 'QualCont: {0}'
+        self.name = 'QualControll'
         self.setDaemon(True)
 
     def run(self):

@@ -14,7 +14,10 @@ def getPagination(url, proxies=None):
     bsObj = customFunctions.url2bs(url, proxies=proxies)
 
     if bsObj:
-        pagesTag = bsObj.findAll('ul', {'class':'pagination ng-scope'})[0]
+        try:
+            pagesTag = bsObj.findAll('ul', {'class':'pagination ng-scope'})[0]
+        except IndexError:
+            return []
         links = customFunctions.getInternalLinks(pagesTag)
         pages = [customFunctions.rel2abs(link, url) for link in links]
 
@@ -58,7 +61,11 @@ def getProxies(url, proxies=None):
 
     if bsObj:
 
-        tableTag = bsObj.findAll('section', {'class':'proxy-results section-component'})[0]
+        try:
+            tableTag = bsObj.findAll('section', {'class':'proxy-results section-component'})[0]
+        except IndexError:
+            return []
+
         proxyTags = tableTag.findAll('tr')
 
         for proxyTag in proxyTags[1:]:

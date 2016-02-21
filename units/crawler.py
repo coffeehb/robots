@@ -159,9 +159,9 @@ if __name__ == '__main__':
     # some test urls...
     # url = 'https://www.skipthedishes.com/'
     # url = 'https://www.hungry.dk/'
-    url = 'https://www.foodora.es/'
+    url = 'https://www.foodora.ca/'
 
-    testCrawler = InternalCrawler(url, 'foodora.es')
+    testCrawler = InternalCrawler(url, 'foodora.ca')
     setLogFile(crawler = testCrawler)
     testCrawler.crawl(testCrawler.startUrl, action=None)
     

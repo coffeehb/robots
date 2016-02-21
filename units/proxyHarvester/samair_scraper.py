@@ -60,6 +60,8 @@ def getProxies(url, styles, proxies=None):
                 proxiesList.append(proxy)
             except KeyError:
                 continue
+            except IndexError:
+                continue
 
         return proxiesList
 
@@ -96,7 +98,8 @@ def main(proxies=None):
     results =[]
     for page in pages:
         result = getProxies(page, styles)
-        results.extend(result)
+        if result:
+            results.extend(result)
         time.sleep(1)
 
     return results
